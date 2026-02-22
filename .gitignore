@@ -75,3 +75,8 @@ playwright-report/
 # Build artifacts
 *.zip
 provisioning/drivers/virtio-win.iso
+
+backend/venv/
+**/__pycache__/
+*.pyc
+node_modules/
